@@ -1,0 +1,1 @@
+# sample pdf receipt with python django and pdfkit
